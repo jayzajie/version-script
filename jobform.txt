@@ -1,4 +1,4 @@
 {
-   "version": "2.8.7",
+   "version": "1.3",
    "notes": "General problems such as errors when leaving/entering houses were resolved, now more checks were added when executing the LoadDecoration and UnloadDecoration when entering and leaving houses. Some details such as the blip and mortgage system were also adjusted"
 }
